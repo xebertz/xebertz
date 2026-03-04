@@ -2,12 +2,12 @@
 
 Desarrolladora **Full‑Stack** con foco en **backend**, diseño de **APIs** y **bases de datos**.
 
-**Stack:** Java, Spring Boot, .NET / .NET Framework, Python · PostgreSQL, SQL Server, MongoDB · Docker · REST · SQL (modelado/optimización) · Testing (unit/integration)  
-**Idiomas:** Español (nativo) · Inglés (técnico)
+**🧰 Stack:** Java, Spring Boot, .NET / .NET Framework, Python · PostgreSQL, SQL Server, MongoDB · Docker · REST · SQL (modelado/optimización) · Testing (unit/integration)  
+**🌍 Idiomas:** Español (nativo) · Inglés (técnico)
 
 ---
 
-## Proyectos
+## 🚀 Proyectos
 
 - **[EntityObjectMapper](https://github.com/xebertz/EntityObjectMapper)** — Librería en **C# (.NET Framework 4.8)** para acceso a **SQL Server**: ejecución centralizada de queries/SPs y **mapeo a objetos** con atributos (ej. `[ColumnName]`), soporte de parámetros y transacciones.
 
@@ -25,7 +25,7 @@ Desarrolladora **Full‑Stack** con foco en **backend**, diseño de **APIs** y *
 
 ---
 
-## Contacto
+## 📬 Contacto
 
 - **Email:** <ebertz.xime@gmail.com>
 - **LinkedIn:** <https://www.linkedin.com/in/ximena-ebertz>
