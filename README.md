@@ -27,6 +27,16 @@ Técnica Universitaria en Informática. Estudiante de Licenciatura en Sistemas. 
 
 ---
 
+## 🏢 Organizaciones
+
+- **[pp2-ungs](https://github.com/pp2-ungs)** — App Java de **gestión y asignación de tareas** con arquitectura **MVC + Observer** y notificadores dinámicos por Email y Telegram.
+- **[sor2-ungs](https://github.com/sor2-ungs)** — TPs sobre **administración de sistemas y redes**: sistemas de archivos, ciberseguridad, contenedores **Docker** y monitoreo con **Zabbix/Prometheus/Grafana**.
+- **[pps-ungs](https://github.com/pps-ungs)** — Exploración de **heurísticas de optimización** (Hill Climbing, Random Restart, Ant Colony) aplicadas a **cadenas de suministro** en Python.
+- **[curcio-ebertz-lopez-bd-2](https://github.com/curcio-ebertz-lopez-bd-2)** — Trabajo práctico sobre **OrientDB**, base de datos **multi-modelo NoSQL** (grafos + documentos).
+- **[orga2-ungs](https://github.com/orga2-ungs)** — Calculadora de operaciones aritméticas implementada en **ASM + C**.
+
+---
+
 ## 📬 Contacto
 
 - ✉️ **Email:** <ebertz.xime@gmail.com>
