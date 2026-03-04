@@ -11,7 +11,7 @@ Desarrolladora **Full‑Stack** con foco en **backend**, diseño de **APIs** y *
 
 - **[EntityObjectMapper](https://github.com/xebertz/EntityObjectMapper)** — Librería en **C# (.NET Framework 4.8)** para acceso a **SQL Server**: ejecución centralizada de queries/SPs y **mapeo a objetos** con atributos (ej. `[ColumnName]`), soporte de parámetros y transacciones.
 
-- **TASkOcupado** — App para **crear/asignar tareas** (MVC + Observer) con repos separados (Core/UI/Config + notifiers por Email/Telegram + logger).  
+- **TASkOcupado** — App en Java para **crear/asignar tareas** (MVC + Observer) con repos separados (Core/UI/Config + notifiers por Email/Telegram + logger).  
   - **[TASkOcupadoCore](https://github.com/pp2-ungs/TASkOcupadoCore)** — Modelo de dominio y lógica core (asignación + Observer).
   - **[TASkOcupadoUI](https://github.com/pp2-ungs/TASkOcupadoUI)** — Interfaz y controllers (MVC) para crear/asignar tareas.
   - **[TASkOcupadoConfig](https://github.com/pp2-ungs/TASkOcupadoConfig)** — Configuración y extensibilidad (carga/plug de componentes).
