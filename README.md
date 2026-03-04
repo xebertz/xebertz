@@ -27,6 +27,16 @@ Técnica Universitaria en Informática. Estudiante de Licenciatura en Sistemas. 
 
 ---
 
+## 🏢 Organizaciones
+
+- **[pp2-ungs](https://github.com/pp2-ungs)** — Programación 2, UNGSm.
+- **[sor2-ungs](https://github.com/sor2-ungs)** — Sistemas Operativos en Red 2, UNGSm.
+- **[pps-ungs](https://github.com/pps-ungs)** — Práctica Profesional Supervisada, UNGSm.
+- **[curcio-ebertz-lopez-bd-2](https://github.com/curcio-ebertz-lopez-bd-2)** — Bases de Datos 2, UNGSm.
+- **[orga2-ungs](https://github.com/orga2-ungs)** — Organización del Computador 2, UNGSm.
+
+---
+
 ## 📬 Contacto
 
 - ✉️ **Email:** <ebertz.xime@gmail.com>
