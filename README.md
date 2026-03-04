@@ -27,5 +27,5 @@ Desarrolladora **Full‑Stack** con foco en **backend**, diseño de **APIs** y *
 
 ## 📬 Contacto
 
-✉️ **Email:** <ebertz.xime@gmail.com>
-💼 **LinkedIn:** <https://www.linkedin.com/in/ximena-ebertz>
+- ✉️ **Email:** <ebertz.xime@gmail.com>
+- 💼 **LinkedIn:** <https://www.linkedin.com/in/ximena-ebertz>
