@@ -2,7 +2,7 @@
 
 Desarrolladora **Full‑Stack** con foco en **backend**, diseño de **APIs** y **bases de datos**.
 
-**🧰 Stack:** Java, Spring Boot, .NET / .NET Framework, Python · PostgreSQL, SQL Server, MongoDB · Docker · REST · SQL (modelado/optimización) · Testing (unit/integration)  
+**🧰 Stack:** Java, Spring Boot, Spring Data JPA, Hibernate/JPA, Jakarta Validation, .NET / .NET Framework, Python · PostgreSQL, SQL Server, MongoDB, H2 · Docker · REST · SQL (modelado/optimización) · Testing (unit/integration)  
 **🌍 Idiomas:** Español (nativo) · Inglés (técnico)
 
 ---
@@ -10,6 +10,8 @@ Desarrolladora **Full‑Stack** con foco en **backend**, diseño de **APIs** y *
 ## 🚀 Proyectos
 
 - **[EntityObjectMapper](https://github.com/xebertz/EntityObjectMapper)** — Librería en **C# (.NET Framework 4.8)** para acceso a **SQL Server**: ejecución centralizada de queries/SPs y **mapeo a objetos** con atributos (ej. `[ColumnName]`), soporte de parámetros y transacciones.
+
+- **[ProductManagerAPI](https://github.com/xebertz/ProductManagerAPI)** — API REST para **gestión de productos** (CRUD) en **Java 21** con **Spring Boot 3.2.5** (Spring Web, Spring Data JPA), **Jakarta Validation** y **H2**.
 
 - **TASkOcupado** — App en Java para **crear/asignar tareas** (MVC + Observer) con repos separados (Core/UI/Config + notifiers por Email/Telegram + logger).  
   - **[TASkOcupadoCore](https://github.com/pp2-ungs/TASkOcupadoCore)** — Modelo de dominio y lógica core (asignación + Observer).
