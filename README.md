@@ -1,6 +1,6 @@
 # Hola, soy Ximena Ebertz (@xebertz)
 
-Desarrolladora **Full‑Stack** con foco en **backend**, diseño de **APIs** y **bases de datos**.
+Técnica Universitaria en Informática. Estudiante de Licenciatura en Sistemas. Desarrolladora **Full‑Stack** con foco en **backend**, diseño de **APIs** y **bases de datos**. Docente.
 
 **🧰 Stack:** Java, Spring Boot, Spring Data JPA, Hibernate/JPA, Jakarta Validation, .NET / .NET Framework, Python · PostgreSQL, SQL Server, MongoDB, H2 · Docker · REST · SQL (modelado/optimización) · Testing (unit/integration)  
 **🌍 Idiomas:** Español (nativo) · Inglés (técnico)
